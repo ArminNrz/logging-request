@@ -11,4 +11,4 @@ For further reference, please consider the following sections:
 
 ### Guides
 
-In this project I help you to kno
+In this project I help you to know how to log input request completely and set an Id for each running thread to read the log easily
